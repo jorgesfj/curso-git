@@ -8,4 +8,3 @@ if i<18:
 else:
 	print('Maior de idade')	
 
-print('Tchau')
